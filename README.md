@@ -15,4 +15,4 @@ I am a third-year student with a burning passion for crafting high-interaction w
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-📫 **How to reach me:** [Chèn link LinkedIn hoặc Email của bạn tại đây]
+📫 **How to reach me:** huanthanh0101@gmail.com
